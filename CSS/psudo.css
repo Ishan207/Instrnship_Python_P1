@@ -1,0 +1,19 @@
+a:link{
+    color: aqua;
+}
+a:visited{
+    color: blue;
+}
+a:hover{
+    background-color: blueviolet;
+}
+.para:hover{
+    background-color: antiquewhite;
+    width: 60px;
+    height: 60px;
+}
+.para:visited{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+}

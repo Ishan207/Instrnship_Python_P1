@@ -1,0 +1,17 @@
+h1{
+    position: relative;
+    left: 700px;
+    top: -600px;
+    z-index: 1;
+    color: blue;
+}
+
+}img1{
+    position:fixed;
+    bottom: 1000px;
+}
+p{
+    position: relative;
+    top: -1900px;
+    color: brown;
+}

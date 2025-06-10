@@ -1,0 +1,10 @@
+#para div{
+    background-color: antiquewhite;
+    height: 300px;
+    width: 300px;
+}
+#para{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

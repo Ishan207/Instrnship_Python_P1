@@ -1,0 +1,93 @@
+img{
+    border-radius: 100px;
+    position: relative;
+    left: 70px;
+    top: 10px;
+
+}
+.para{
+    position: relative;
+    left: 85px;
+    top: -10px;
+    color: white;
+}
+section{
+    background-color: rgb(109, 75, 64);
+}
+.para1{
+    position: relative;
+    left: 350px;
+    top: -195px;
+    color: white;
+}
+.para2{
+    position:relative;
+    left: 450px;
+    top: -180px;
+    color: white;
+}
+.para3{
+    position: relative;
+    left: 70px;
+    color: brown;
+    top: -135px;
+}
+.para4{
+    position: relative;
+    left: 70px;
+    top: -130px;
+}
+.para5{
+    position: relative;
+    left: 70px;
+    top: -268px;
+}
+.para6{
+    position: relative;
+    left: 1000px;
+    top: -280px;
+}
+.para7{
+    position: relative;
+    left: 1000px;
+    top: -278px;
+}
+.para8{
+    position: relative;
+    left: 70px; 
+    color: brown;
+    top: -270px;
+    
+}
+.para10{
+    position: relative;
+    left: 70px;
+    top: -268px;
+}
+.paraa10{
+    position: relative;
+    top: -265px;
+    left: 70px;
+}
+.para11{
+    position: relative;
+    left: 70px;
+    top: -260px;
+}
+.para14{
+    position: relative;
+    left: 70px;
+    color: brown;
+}
+.para12{
+    position: relative;
+    left: 70px;
+}
+.para13{
+    position: relative;
+    left: 70px;
+}
+section1{
+    position: relative;
+    top: -250px;
+}
