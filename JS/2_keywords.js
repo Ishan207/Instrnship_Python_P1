@@ -32,5 +32,6 @@ console.log(age);
 
 // error
 
-const year;
-console.log(year);
+// const year;
+// console.log(year);
+//error
