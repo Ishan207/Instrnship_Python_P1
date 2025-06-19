@@ -1,0 +1,30 @@
+.cointener{
+    display: grid;
+    grid-template-areas: 
+    "header header"
+    "link content"
+    "footer footer";
+
+    grid-template-columns: 50% 50%;
+    gap: 5px;
+    background-color: aquamarine;
+    padding: 5px;
+}
+.cointener div{
+    background-color: bisque;
+    padding: 10px;
+}
+.cointener div.header{
+    grid-area: header;
+    text-align: center;
+}
+.cointener div.link{
+    grid-area: link;
+}
+.cointener div.content{
+    grid-area: content;
+}
+.cointener div.footer{
+    grid-area: footer;
+    text-align: center;
+}

@@ -12,8 +12,23 @@ a:hover{
     width: 60px;
     height: 60px;
 }
-.para:visited{
-    background-color: aqua;
-    width: 100px;
-    height: 100px;
+.para1 p:first-child{
+    color: aquamarine;
 }
+div p:first-child{
+    color: red;
+}
+.para1 p:last-child{
+    background-color: aqua;
+}
+.para1 p:first-letter{
+    background-color: blueviolet;
+}
+.para2 p:nth-child(2n){   /*for odd*/
+    color: yellowgreen;
+}
+.para2 p:nth-child(2n+1)   /*for even*/
+{
+    background-color: antiquewhite;
+}
+
