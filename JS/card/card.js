@@ -8,7 +8,8 @@ card.appendChild(heading);
 // Image section
 const img = document.createElement('img');
 img.src = 'ishan.jpg'; 
-img.style.height = "500px";
+img.style.height = "150px";
+
 card.appendChild(img);
 
 
